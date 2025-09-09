@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net8.0/6-print_string
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net8.0/6-print_string.deps.json
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net8.0/6-print_string.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net8.0/6-print_string.dll
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net8.0/6-print_string.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.dll
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/refint/6-print_string.dll
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/ref/6-print_string.dll

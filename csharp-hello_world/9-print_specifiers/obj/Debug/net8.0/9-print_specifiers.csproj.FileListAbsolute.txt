@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net8.0/9-print_specifiers
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net8.0/9-print_specifiers.deps.json
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net8.0/9-print_specifiers.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net8.0/9-print_specifiers.dll
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net8.0/9-print_specifiers.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net8.0/9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net8.0/9-print_specifiers.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net8.0/9-print_specifiers.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net8.0/9-print_specifiers.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net8.0/9-print_specifiers.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net8.0/9-print_specifiers.dll
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net8.0/refint/9-print_specifiers.dll
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net8.0/9-print_specifiers.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net8.0/9-print_specifiers.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net8.0/ref/9-print_specifiers.dll
