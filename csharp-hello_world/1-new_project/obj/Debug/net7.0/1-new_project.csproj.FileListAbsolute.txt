@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/net7.0/1-new_project
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/net7.0/1-new_project.deps.json
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/net7.0/1-new_project.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/net7.0/1-new_project.dll
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/net7.0/1-new_project.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/net7.0/1-new_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/net7.0/1-new_project.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/net7.0/1-new_project.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/net7.0/1-new_project.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/net7.0/1-new_project.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/net7.0/1-new_project.dll
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/net7.0/refint/1-new_project.dll
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/net7.0/1-new_project.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/net7.0/1-new_project.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/net7.0/ref/1-new_project.dll
