@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net8.0/10-print_line
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net8.0/10-print_line.deps.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net8.0/10-print_line.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net8.0/10-print_line.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net8.0/10-print_line.pdb
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net8.0/10-print_line.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net8.0/10-print_line.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net8.0/10-print_line.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net8.0/10-print_line.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net8.0/10-print_line.sourcelink.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net8.0/10-print_line.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net8.0/refint/10-print_line.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net8.0/10-print_line.pdb
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net8.0/10-print_line.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net8.0/ref/10-print_line.dll
