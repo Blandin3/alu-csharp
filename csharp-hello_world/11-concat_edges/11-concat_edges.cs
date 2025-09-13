@@ -4,14 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        string str1 = "object";
-        string str2 = "-oriented";
-        string str3 = "programming";
-        string str4 = "in";
-        string str5 = "C#";
-
-        // Concatenate and print the sentence
-        Console.WriteLine(str1 + str2 + " " + str3 + " " + str4 + " " + str5);
+        string word = "Holberton";
+        string word_first_3 = word.Substring(0, 3);
+        string word_last_2 = word.Substring(word.Length - 2, 2);
+        string middle_word = word.Substring(1, word.Length - 2);
+        Console.WriteLine("First 3 letters: " + word_first_3);
+        Console.WriteLine("Last 2 letters: " + word_last_2);
+        Console.WriteLine("Middle word: " + middle_word);
     }
 }
 
