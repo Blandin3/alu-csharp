@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net8.0/3-print_alphabt
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net8.0/3-print_alphabt.deps.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net8.0/3-print_alphabt.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net8.0/3-print_alphabt.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net8.0/3-print_alphabt.pdb
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net8.0/3-print_alphabt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net8.0/3-print_alphabt.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net8.0/3-print_alphabt.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net8.0/3-print_alphabt.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net8.0/3-print_alphabt.sourcelink.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net8.0/3-print_alphabt.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net8.0/refint/3-print_alphabt.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net8.0/3-print_alphabt.pdb
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net8.0/3-print_alphabt.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net8.0/ref/3-print_alphabt.dll

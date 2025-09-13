@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net8.0/5-print_comb
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net8.0/5-print_comb.deps.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net8.0/5-print_comb.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net8.0/5-print_comb.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net8.0/5-print_comb.pdb
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net8.0/5-print_comb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net8.0/5-print_comb.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net8.0/5-print_comb.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net8.0/5-print_comb.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net8.0/5-print_comb.sourcelink.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net8.0/5-print_comb.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net8.0/refint/5-print_comb.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net8.0/5-print_comb.pdb
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net8.0/5-print_comb.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net8.0/ref/5-print_comb.dll
