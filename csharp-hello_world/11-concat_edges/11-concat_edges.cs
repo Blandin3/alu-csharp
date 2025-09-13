@@ -4,13 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        string word = "Holberton";
-        string word_first_3 = word.Substring(0, 3);
-        string word_last_2 = word.Substring(word.Length - 2, 2);
-        string middle_word = word.Substring(1, word.Length - 2);
-        Console.WriteLine("First 3 letters: " + word_first_3);
-        Console.WriteLine("Last 2 letters: " + word_last_2);
-        Console.WriteLine("Middle word: " + middle_word);
+        string str = "C# (pronounced \"See Sharp\") is a simple, modern, object-oriented, and type-safe programming language. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers.";
+        Console.Write(str.Substring(40, 16) + " programming in " + str.Substring(111, 3) + "\n");
     }
 }
+// Output: object-oriented programming in C#
+
 
