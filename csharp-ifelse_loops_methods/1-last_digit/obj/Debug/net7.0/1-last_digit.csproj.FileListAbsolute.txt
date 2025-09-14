@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.deps.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.pdb
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.sourcelink.json
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/refint/1-last_digit.dll
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.pdb
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/ref/1-last_digit.dll
