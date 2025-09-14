@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/net8.0/100-hello_error
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/net8.0/100-hello_error.deps.json
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/net8.0/100-hello_error.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/net8.0/100-hello_error.dll
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/net8.0/100-hello_error.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net8.0/100-hello_error.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net8.0/100-hello_error.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net8.0/100-hello_error.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net8.0/100-hello_error.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net8.0/100-hello_error.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net8.0/100-hello_error.dll
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net8.0/refint/100-hello_error.dll
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net8.0/100-hello_error.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net8.0/100-hello_error.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/net8.0/ref/100-hello_error.dll
