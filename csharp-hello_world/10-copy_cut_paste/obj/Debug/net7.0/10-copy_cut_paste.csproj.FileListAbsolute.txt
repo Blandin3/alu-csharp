@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/net7.0/10-copy_cut_paste
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/net7.0/10-copy_cut_paste.deps.json
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/net7.0/10-copy_cut_paste.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/net7.0/10-copy_cut_paste.dll
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/net7.0/10-copy_cut_paste.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net7.0/10-copy_cut_paste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net7.0/10-copy_cut_paste.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net7.0/10-copy_cut_paste.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net7.0/10-copy_cut_paste.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net7.0/10-copy_cut_paste.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net7.0/10-copy_cut_paste.dll
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net7.0/refint/10-copy_cut_paste.dll
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net7.0/10-copy_cut_paste.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net7.0/10-copy_cut_paste.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/net7.0/ref/10-copy_cut_paste.dll

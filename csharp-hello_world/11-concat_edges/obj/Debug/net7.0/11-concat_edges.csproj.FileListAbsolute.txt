@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.deps.json
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.dll
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.dll
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/refint/11-concat_edges.dll
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.pdb
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/ref/11-concat_edges.dll
