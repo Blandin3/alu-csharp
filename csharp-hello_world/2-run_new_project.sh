@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Define the project directory
 PROJECT_DIR="2-new_project"
