@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.deps.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.sourcelink.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/refint/15-square_matrix.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/ref/15-square_matrix.dll

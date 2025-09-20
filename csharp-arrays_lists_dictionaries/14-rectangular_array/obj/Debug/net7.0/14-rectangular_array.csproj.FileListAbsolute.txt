@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.deps.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.sourcelink.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/refint/14-rectangular_array.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/ref/14-rectangular_array.dll

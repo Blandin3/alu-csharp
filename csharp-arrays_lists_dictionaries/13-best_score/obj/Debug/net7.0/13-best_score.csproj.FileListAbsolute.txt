@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net7.0/13-best_score
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net7.0/13-best_score.deps.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net7.0/13-best_score.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net7.0/13-best_score.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net7.0/13-best_score.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net7.0/13-best_score.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net7.0/13-best_score.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net7.0/13-best_score.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net7.0/13-best_score.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net7.0/13-best_score.sourcelink.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net7.0/13-best_score.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net7.0/refint/13-best_score.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net7.0/13-best_score.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net7.0/13-best_score.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net7.0/ref/13-best_score.dll
