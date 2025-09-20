@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/net8.0/9-add_key_value
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/net8.0/9-add_key_value.deps.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/net8.0/9-add_key_value.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/net8.0/9-add_key_value.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/net8.0/9-add_key_value.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net8.0/9-add_key_value.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net8.0/9-add_key_value.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net8.0/9-add_key_value.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net8.0/9-add_key_value.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net8.0/9-add_key_value.sourcelink.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net8.0/9-add_key_value.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net8.0/refint/9-add_key_value.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net8.0/9-add_key_value.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net8.0/9-add_key_value.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net8.0/ref/9-add_key_value.dll

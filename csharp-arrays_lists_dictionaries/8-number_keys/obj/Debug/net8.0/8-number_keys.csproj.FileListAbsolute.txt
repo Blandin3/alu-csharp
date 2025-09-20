@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net8.0/8-number_keys
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net8.0/8-number_keys.deps.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net8.0/8-number_keys.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net8.0/8-number_keys.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net8.0/8-number_keys.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.sourcelink.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/refint/8-number_keys.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/ref/8-number_keys.dll

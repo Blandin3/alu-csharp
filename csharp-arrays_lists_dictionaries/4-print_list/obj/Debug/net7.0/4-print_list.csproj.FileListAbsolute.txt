@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.deps.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.sourcelink.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/refint/4-print_list.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/ref/4-print_list.dll

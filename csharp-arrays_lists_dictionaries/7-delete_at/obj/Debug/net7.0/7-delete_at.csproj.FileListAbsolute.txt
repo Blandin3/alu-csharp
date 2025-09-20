@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net7.0/7-delete_at
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net7.0/7-delete_at.deps.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net7.0/7-delete_at.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net7.0/7-delete_at.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net7.0/7-delete_at.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.sourcelink.json
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/refint/7-delete_at.dll
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.pdb
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/ref/7-delete_at.dll
