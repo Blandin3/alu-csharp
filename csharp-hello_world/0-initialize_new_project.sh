@@ -5,8 +5,8 @@
 mkdir -p 0-new_project
 
 # Navigate into the project directory
-cd 0-new_project
+#cd 0-new_project
 
 # Initialize a new console project using dotnet CLI
-dotnet new console --output . --name 0-new_project
+dotnet new console -o 0-new_project
 
