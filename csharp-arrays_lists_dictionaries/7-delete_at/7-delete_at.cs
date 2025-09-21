@@ -11,9 +11,18 @@ public class List
             return myList;
         }
 
-        myList.RemoveAt(index);
-        return myList;
+        // Create a new list to avoid using .RemoveAt()
+        List<int> newList = new List<int>();
+
+        for (int i = 0; i < myList.Count; i++)
+        {
+            if (i != index) // skip the element at 'index'
+                newList.Add(myList[i]);
+        }
+
+        return newList;
     }
 }
+
 
 
