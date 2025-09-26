@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/net7.0/12-linkedlist_insert
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/net7.0/12-linkedlist_insert.deps.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/net7.0/12-linkedlist_insert.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/net7.0/12-linkedlist_insert.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/net7.0/12-linkedlist_insert.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net7.0/12-linkedlist_insert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net7.0/12-linkedlist_insert.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net7.0/12-linkedlist_insert.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net7.0/12-linkedlist_insert.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net7.0/12-linkedlist_insert.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net7.0/12-linkedlist_insert.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net7.0/refint/12-linkedlist_insert.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net7.0/12-linkedlist_insert.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net7.0/12-linkedlist_insert.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net7.0/ref/12-linkedlist_insert.dll

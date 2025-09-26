@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.deps.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/refint/8-linkedlist_find.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/ref/8-linkedlist_find.dll

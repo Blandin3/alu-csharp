@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net7.0/13-linkedlist_delete
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net7.0/13-linkedlist_delete.deps.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net7.0/13-linkedlist_delete.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net7.0/13-linkedlist_delete.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net7.0/13-linkedlist_delete.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net7.0/13-linkedlist_delete.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net7.0/13-linkedlist_delete.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net7.0/13-linkedlist_delete.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net7.0/13-linkedlist_delete.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net7.0/13-linkedlist_delete.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net7.0/13-linkedlist_delete.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net7.0/refint/13-linkedlist_delete.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net7.0/13-linkedlist_delete.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net7.0/13-linkedlist_delete.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net7.0/ref/13-linkedlist_delete.dll

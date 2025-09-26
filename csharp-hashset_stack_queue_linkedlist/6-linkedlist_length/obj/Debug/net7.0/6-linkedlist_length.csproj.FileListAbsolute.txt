@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net7.0/6-linkedlist_length
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net7.0/6-linkedlist_length.deps.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net7.0/6-linkedlist_length.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net7.0/6-linkedlist_length.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/net7.0/6-linkedlist_length.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net7.0/6-linkedlist_length.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net7.0/6-linkedlist_length.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net7.0/6-linkedlist_length.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net7.0/6-linkedlist_length.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net7.0/6-linkedlist_length.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net7.0/6-linkedlist_length.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net7.0/refint/6-linkedlist_length.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net7.0/6-linkedlist_length.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net7.0/6-linkedlist_length.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/net7.0/ref/6-linkedlist_length.dll

@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/net7.0/3-stack_push_pop
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/net7.0/3-stack_push_pop.deps.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/net7.0/3-stack_push_pop.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/net7.0/3-stack_push_pop.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/net7.0/3-stack_push_pop.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/refint/3-stack_push_pop.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/ref/3-stack_push_pop.dll

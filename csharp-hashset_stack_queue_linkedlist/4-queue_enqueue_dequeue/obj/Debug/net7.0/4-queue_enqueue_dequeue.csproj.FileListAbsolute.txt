@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/net7.0/4-queue_enqueue_dequeue
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/net7.0/4-queue_enqueue_dequeue.deps.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/net7.0/4-queue_enqueue_dequeue.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/net7.0/4-queue_enqueue_dequeue.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/net7.0/4-queue_enqueue_dequeue.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/net7.0/4-queue_enqueue_dequeue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/net7.0/4-queue_enqueue_dequeue.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/net7.0/4-queue_enqueue_dequeue.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/net7.0/4-queue_enqueue_dequeue.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/net7.0/4-queue_enqueue_dequeue.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/net7.0/4-queue_enqueue_dequeue.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/net7.0/refint/4-queue_enqueue_dequeue.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/net7.0/4-queue_enqueue_dequeue.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/net7.0/4-queue_enqueue_dequeue.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/net7.0/ref/4-queue_enqueue_dequeue.dll

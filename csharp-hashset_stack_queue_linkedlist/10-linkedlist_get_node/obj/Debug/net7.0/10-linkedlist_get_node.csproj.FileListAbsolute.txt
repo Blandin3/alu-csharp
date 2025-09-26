@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/net7.0/10-linkedlist_get_node
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/net7.0/10-linkedlist_get_node.deps.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/net7.0/10-linkedlist_get_node.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/net7.0/10-linkedlist_get_node.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/net7.0/10-linkedlist_get_node.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net7.0/10-linkedlist_get_node.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net7.0/10-linkedlist_get_node.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net7.0/10-linkedlist_get_node.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net7.0/10-linkedlist_get_node.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net7.0/10-linkedlist_get_node.sourcelink.json
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net7.0/10-linkedlist_get_node.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net7.0/refint/10-linkedlist_get_node.dll
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net7.0/10-linkedlist_get_node.pdb
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net7.0/10-linkedlist_get_node.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net7.0/ref/10-linkedlist_get_node.dll
