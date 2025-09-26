@@ -1,46 +1,44 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class MyStack
+public class MyStack
 {
-    // Method that processes a stack as per requirements
     public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
-        // Case: Stack is empty
-        if (aStack.Count == 0)
-        {
-            Console.WriteLine("Stack is empty");
-        }
-        else
-        {
-            // Print number of items
-            Console.WriteLine("Number of items: " + aStack.Count);
+        if (aStack == null)
+            aStack = new Stack<string>();
 
-            // Print top item without removing
-            Console.WriteLine("Top item: " + aStack.Peek());
-        }
+        // Number of items
+        Console.WriteLine($"Number of items: {aStack.Count}");
 
-        // Print whether stack contains search
-        bool contains = aStack.Contains(search);
-        Console.WriteLine($"Stack contains \"{search}\": {contains}");
+        // Top item
+        string? topItem = aStack.Count > 0 ? aStack.Peek() : null;
+        Console.WriteLine(topItem != null ? $"Top item: {topItem}" : "Stack is empty");
 
-        // If contains, remove all items up to and including search
-        if (contains)
+        // Check if contains search item
+        bool containsSearch = aStack.Contains(search);
+        Console.WriteLine($"Stack contains \"{search}\": {containsSearch}");
+
+        // Remove items up to and including search
+        if (containsSearch)
         {
             Stack<string> tempStack = new Stack<string>();
+            bool found = false;
 
-            // Move items until we reach the search item
             while (aStack.Count > 0)
             {
-                string item = aStack.Pop(); // <-- only Pop() used here
+                string item = aStack.Pop();
                 if (item == search)
                 {
+                    found = true;
                     break;
                 }
-                tempStack.Push(item);
+                else
+                {
+                    tempStack.Push(item);
+                }
             }
 
-            // Push remaining tempStack items back (to restore order below search)
             while (tempStack.Count > 0)
             {
                 aStack.Push(tempStack.Pop());
@@ -53,4 +51,5 @@ class MyStack
         return aStack;
     }
 }
+
 

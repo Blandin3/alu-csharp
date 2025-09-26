@@ -1,23 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
-class List
+public class List
 {
-    // Method that returns the sum of unique integers in a list
     public static int Sum(List<int> myList)
     {
-        // Use HashSet to keep only unique integers
-        HashSet<int> uniqueNumbers = new HashSet<int>(myList);
+        if (myList == null) return 0; // null-safety
 
-        // Sum all unique numbers
+        HashSet<int> uniqueNumbers = new HashSet<int>();
         int sum = 0;
-        foreach (int num in uniqueNumbers)
+
+        foreach (int number in myList)
         {
-            sum += num;
+            if (!uniqueNumbers.Contains(number))
+            {
+                uniqueNumbers.Add(number);
+                sum += number;
+            }
         }
 
         return sum;
     }
 }
+
 
