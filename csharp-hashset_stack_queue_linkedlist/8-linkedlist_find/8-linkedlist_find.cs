@@ -7,7 +7,7 @@ class LList
     public static int FindNode(LinkedList<int> myLList, int value)
     {
         int index = 0;
-        LinkedListNode<int> current = myLList.First;
+        LinkedListNode<int>? current = myLList.First;
 
         // Traverse the linked list
         while (current != null)

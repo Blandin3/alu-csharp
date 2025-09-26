@@ -7,7 +7,7 @@ class LList
     public static int Length(LinkedList<int> myLList)
     {
         int length = 0;
-        LinkedListNode<int> current = myLList.First;
+        LinkedListNode<int>? current = myLList.First;
 
         // Traverse the linked list manually
         while (current != null)

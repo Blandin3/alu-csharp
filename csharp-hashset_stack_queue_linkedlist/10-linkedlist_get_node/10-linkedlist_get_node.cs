@@ -11,7 +11,7 @@ class LList
             return 0;
 
         int index = 0;
-        LinkedListNode<int> current = myLList.First;
+        LinkedListNode<int>? current = myLList.First;
 
         // Traverse the linked list
         while (current != null)
