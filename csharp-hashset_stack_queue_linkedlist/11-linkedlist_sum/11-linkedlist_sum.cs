@@ -7,7 +7,7 @@ class LList
     public static int Sum(LinkedList<int> myLList)
     {
         int sum = 0;
-        LinkedListNode<int> current = myLList.First;
+        LinkedListNode<int>? current = myLList.First;
 
         // Traverse the linked list and accumulate values
         while (current != null)

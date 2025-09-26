@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11-linkedlist_sum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+485f3f0c5fd2cdffbf3b21b8d183c474864d8986")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a1c4e516b0c3789b8a3974ebd7ab66d8febfc83")]
 [assembly: System.Reflection.AssemblyProductAttribute("11-linkedlist_sum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11-linkedlist_sum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
