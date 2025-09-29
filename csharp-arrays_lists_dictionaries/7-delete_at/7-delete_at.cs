@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 public class List
@@ -7,22 +7,27 @@ public class List
     {
         if (index < 0 || index >= myList.Count)
         {
-            Console.WriteLine("Index out of range");
+            Console.WriteLine("Index is out of range");
             return myList;
         }
 
-        // Create a new list to avoid using .RemoveAt()
         List<int> newList = new List<int>();
 
         for (int i = 0; i < myList.Count; i++)
         {
-            if (i != index) // skip the element at 'index'
+            if (i != index)
                 newList.Add(myList[i]);
         }
 
-        return newList;
+        // Clear the original list and copy back the elements
+        myList.Clear();
+        foreach (int number in newList)
+            myList.Add(number);
+
+        return myList;
     }
 }
+
 
 
 
