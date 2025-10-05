@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 public class Array
 {
@@ -28,4 +28,5 @@ public class Array
         return arr;
     }
 }
+
 
