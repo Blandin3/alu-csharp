@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/bin/Debug/net7.0/3-dog
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/bin/Debug/net7.0/3-dog.deps.json
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/bin/Debug/net7.0/3-dog.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/bin/Debug/net7.0/3-dog.dll
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/bin/Debug/net7.0/3-dog.pdb
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/obj/Debug/net7.0/3-dog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/obj/Debug/net7.0/3-dog.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/obj/Debug/net7.0/3-dog.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/obj/Debug/net7.0/3-dog.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/obj/Debug/net7.0/3-dog.sourcelink.json
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/obj/Debug/net7.0/3-dog.dll
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/obj/Debug/net7.0/refint/3-dog.dll
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/obj/Debug/net7.0/3-dog.pdb
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/obj/Debug/net7.0/3-dog.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-structs_enums/3-dog/obj/Debug/net7.0/ref/3-dog.dll

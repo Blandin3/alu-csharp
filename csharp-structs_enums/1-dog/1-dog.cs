@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public enum Rating
+{
+    Good,
+    Great,
+    Excellent
+}
+
+public struct Dog
+{
+    public string name;
+    public float age;
+    public string owner;
+    public Rating rating;
+}
+
