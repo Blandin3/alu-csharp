@@ -14,11 +14,11 @@ class List
                 count++;
             }
         }
-        catch (ArgumentOutOfRangeException)
+        catch (IndexOutOfRangeException)
         {
-            // Do nothing, just stop when list ends
         }
         return count;
     }
 }
+
 
