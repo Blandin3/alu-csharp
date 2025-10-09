@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net8.0/3-throw_exception
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net8.0/3-throw_exception.deps.json
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net8.0/3-throw_exception.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net8.0/3-throw_exception.dll
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net8.0/3-throw_exception.pdb
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net8.0/3-throw_exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net8.0/3-throw_exception.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net8.0/3-throw_exception.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net8.0/3-throw_exception.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net8.0/3-throw_exception.sourcelink.json
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net8.0/3-throw_exception.dll
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net8.0/refint/3-throw_exception.dll
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net8.0/3-throw_exception.pdb
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net8.0/3-throw_exception.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net8.0/ref/3-throw_exception.dll

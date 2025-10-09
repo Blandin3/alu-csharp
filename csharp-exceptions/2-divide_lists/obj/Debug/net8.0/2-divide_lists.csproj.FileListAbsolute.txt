@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net8.0/2-divide_lists
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net8.0/2-divide_lists.deps.json
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net8.0/2-divide_lists.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net8.0/2-divide_lists.dll
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net8.0/2-divide_lists.pdb
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net8.0/2-divide_lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net8.0/2-divide_lists.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net8.0/2-divide_lists.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net8.0/2-divide_lists.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net8.0/2-divide_lists.sourcelink.json
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net8.0/2-divide_lists.dll
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net8.0/refint/2-divide_lists.dll
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net8.0/2-divide_lists.pdb
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net8.0/2-divide_lists.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net8.0/ref/2-divide_lists.dll
