@@ -1,0 +1,15 @@
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/bin/Debug/net7.0/1-enemy
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/bin/Debug/net7.0/1-enemy.deps.json
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/bin/Debug/net7.0/1-enemy.runtimeconfig.json
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/bin/Debug/net7.0/1-enemy.dll
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/bin/Debug/net7.0/1-enemy.pdb
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.sourcelink.json
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.dll
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/refint/1-enemy.dll
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.pdb
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/1-enemy.genruntimeconfig.cache
+/Users/angemju/alu-csharp/csharp-classes/1-enemy/obj/Debug/net7.0/ref/1-enemy.dll
