@@ -1,0 +1,12 @@
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/bin/Debug/net8.0/MyMath.deps.json
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/bin/Debug/net8.0/MyMath.dll
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/bin/Debug/net8.0/MyMath.pdb
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net8.0/MyMath.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net8.0/MyMath.AssemblyInfoInputs.cache
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net8.0/MyMath.AssemblyInfo.cs
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net8.0/MyMath.csproj.CoreCompileInputs.cache
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net8.0/MyMath.sourcelink.json
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net8.0/MyMath.dll
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net8.0/refint/MyMath.dll
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net8.0/MyMath.pdb
+/Users/angemju/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net8.0/ref/MyMath.dll
