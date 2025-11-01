@@ -3,8 +3,16 @@ using System.Collections.Generic;
 
 namespace Text
 {
+    /// <summary>
+    /// Class for string operations
+    /// </summary>
     public class Str
     {
+        /// <summary>
+        /// Finds the index of the first unique character in a string
+        /// </summary>
+        /// <param name="s">String to search</param>
+        /// <returns>Index of first unique character, or -1 if none found</returns>
         public static int UniqueChar(string s)
         {
             if (string.IsNullOrEmpty(s))

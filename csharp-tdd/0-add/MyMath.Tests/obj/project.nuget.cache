@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cOzIpUzGALzHZ8cthCvAHSI6XZw+gyDJT2mNJhuGf8bpvxlH9oy1+Bm9QUyOnlPEcNCrXNMxBBuOSJWfoA4rdA==",
+  "dgSpecHash": "z/S1zNpw/oOnwVCdPnS7AIxrmqbwWlIwq2oD97pgsilGqii6Wl3rkmbBQhDRzT7Pdd7sf+FZbEdJ2m3OPUgStw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath.Tests\\MyMath.Tests.csproj",
+  "projectFilePath": "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath.Tests\\MyMath.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

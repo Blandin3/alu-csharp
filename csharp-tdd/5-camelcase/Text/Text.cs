@@ -2,8 +2,16 @@
 
 namespace Text
 {
+    /// <summary>
+    /// Class for string operations
+    /// </summary>
     public class Str
     {
+        /// <summary>
+        /// Counts the number of words in a camelCase string
+        /// </summary>
+        /// <param name="s">CamelCase string to analyze</param>
+        /// <returns>Number of words in the camelCase string</returns>
         public static int CamelCase(string s)
         {
             if (string.IsNullOrEmpty(s))

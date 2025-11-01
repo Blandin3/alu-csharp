@@ -3,8 +3,16 @@ using System.Text.RegularExpressions;
 
 namespace Text
 {
+    /// <summary>
+    /// Class for string operations
+    /// </summary>
     public class Str
     {
+        /// <summary>
+        /// Checks if a string is a palindrome
+        /// </summary>
+        /// <param name="s">String to check</param>
+        /// <returns>True if palindrome, false otherwise</returns>
         public static bool IsPalindrome(string s)
         {
             if (string.IsNullOrEmpty(s))
