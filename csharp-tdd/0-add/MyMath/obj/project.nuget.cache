@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xInDo5A6tClbww8JaZrz+v3VMxoCpHJ0nVRvTAWzTRgjbTKXYYa/wDJ5IAW8QsRDDDHAaD4j/jG2/3xyK2OhoQ==",
+  "dgSpecHash": "gagO5FVXgIAH5YY9kTHRNsYogg3KD6pr2FUajqFYbvkWmCu4y+R0GXsvnjufc66dYdrfPrL/90mlBok7gRpzlw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

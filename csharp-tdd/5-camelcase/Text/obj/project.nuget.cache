@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LLu47ZBenV8=",
+  "dgSpecHash": "UmOUkymhisSyNoadg23kRpzfaPUwN6koP0ANn2F4Wnbfab4Rm2cYkJmtR0IDi0dMHRV9b0IkA+/TtM1Y3yU+7A==",
   "success": true,
-  "projectFilePath": "/Users/angemju/alu-csharp/csharp-tdd/5-camelcase/Text/Text.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\5-camelcase\\Text\\Text.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
