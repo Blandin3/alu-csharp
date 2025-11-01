@@ -1,33 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath.Tests/MyMath.Tests.csproj": {}
+    "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath.Tests\\MyMath.Tests.csproj": {}
   },
   "projects": {
-    "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath.Tests/MyMath.Tests.csproj": {
+    "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath.Tests\\MyMath.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath.Tests/MyMath.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath.Tests\\MyMath.Tests.csproj",
         "projectName": "MyMath.Tests",
-        "projectPath": "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath.Tests/MyMath.Tests.csproj",
-        "packagesPath": "/Users/angemju/.nuget/packages/",
-        "outputPath": "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath.Tests/obj/",
+        "projectPath": "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath.Tests\\MyMath.Tests.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/angemju/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "netcoreapp2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath/MyMath.csproj": {
-                "projectPath": "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath/MyMath.csproj"
+              "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj": {
+                "projectPath": "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj"
               }
             }
           }
@@ -36,20 +40,21 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
             },
             "NUnit": {
               "target": "Package",
@@ -79,36 +84,35 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.413/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.121\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath/MyMath.csproj": {
+    "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath/MyMath.csproj",
+        "projectUniqueName": "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
         "projectName": "MyMath",
-        "projectPath": "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath/MyMath.csproj",
-        "packagesPath": "/Users/angemju/.nuget/packages/",
-        "outputPath": "/Users/angemju/alu-csharp/csharp-tdd/0-add/MyMath/obj/",
+        "projectPath": "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/angemju/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "netstandard2.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -116,16 +120,19 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -137,12 +144,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.413/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.121\\RuntimeIdentifierGraph.json"
         }
       }
     }
