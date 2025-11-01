@@ -3,12 +3,12 @@
 namespace MyMath
 {
     /// <summary>
-    /// Class for mathematical operations
+    /// Class containing mathematical operations
     /// </summary>
-    public class Operations
+    public static class Operations
     {
         /// <summary>
-        /// Adds two integers
+        /// Adds two integers and returns the sum
         /// </summary>
         /// <param name="a">First integer</param>
         /// <param name="b">Second integer</param>
