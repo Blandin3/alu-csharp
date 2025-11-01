@@ -1,7 +1,7 @@
-c:\Users\ADMIN\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.xml
 c:\Users\ADMIN\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.deps.json
 c:\Users\ADMIN\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.dll
 c:\Users\ADMIN\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.pdb
+c:\Users\ADMIN\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\netstandard2.0\MyMath.xml
 c:\Users\ADMIN\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.csproj.AssemblyReference.cache
 c:\Users\ADMIN\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
 c:\Users\ADMIN\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\netstandard2.0\MyMath.AssemblyInfoInputs.cache
