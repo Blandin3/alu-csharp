@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\MyMath.csproj": {}
+    "C:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\MyMath.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\MyMath.csproj": {
+    "C:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\MyMath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\MyMath.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\MyMath.csproj",
         "projectName": "MyMath",
-        "projectPath": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\MyMath.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\MyMath.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.121\\RuntimeIdentifierGraph.json"
         }
       }
     }
