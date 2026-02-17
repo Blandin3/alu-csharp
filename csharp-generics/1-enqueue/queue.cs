@@ -1,12 +1,11 @@
-using System;
+﻿using System;
 
 public class Queue<T>
 {
-    // Node class
     public class Node
     {
         public T value;
-        public Node next;
+        public Node? next;
 
         public Node(T value)
         {
@@ -15,15 +14,13 @@ public class Queue<T>
         }
     }
 
-    public Node head;
-    public Node tail;
-    private int count;
+    public Node? head;
+    public Node? tail;
+    public int count;
 
-    public Queue()
+    public Type CheckType()
     {
-        head = null;
-        tail = null;
-        count = 0;
+        return typeof(T);
     }
 
     public void Enqueue(T value)
@@ -37,7 +34,7 @@ public class Queue<T>
         }
         else
         {
-            tail.next = newNode;
+            tail!.next = newNode;
             tail = newNode;
         }
 
@@ -47,10 +44,5 @@ public class Queue<T>
     public int Count()
     {
         return count;
-    }
-
-    public Type CheckType()
-    {
-        return typeof(T);
     }
 }
