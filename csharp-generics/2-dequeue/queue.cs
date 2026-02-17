@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 public class Queue<T>
 {
@@ -62,41 +62,15 @@ public class Queue<T>
         count--;
 
         if (count == 0)
-            tail = null;
-
-        return value;
-    }
-
-    public T Peek()
-    {
-        if (count == 0)
         {
-            Console.WriteLine("Queue is empty");
-            return default(T);
+            tail = null;
         }
 
-        return head.value;
+        return value;
     }
 
     public int Count()
     {
         return count;
-    }
-
-    public void Print()
-    {
-        if (count == 0)
-        {
-            Console.WriteLine("Queue is empty");
-            return;
-        }
-
-        Node current = head;
-
-        while (current != null)
-        {
-            Console.WriteLine(current.value);
-            current = current.next;
-        }
     }
 }

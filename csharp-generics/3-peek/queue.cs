@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 public class Queue<T>
 {
@@ -67,6 +67,17 @@ public class Queue<T>
         }
 
         return value;
+    }
+
+    public T Peek()
+    {
+        if (count == 0)
+        {
+            Console.WriteLine("Queue is empty");
+            return default(T);
+        }
+
+        return head.value;
     }
 
     public int Count()

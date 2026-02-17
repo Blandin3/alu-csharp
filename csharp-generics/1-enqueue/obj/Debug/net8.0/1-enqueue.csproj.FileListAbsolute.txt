@@ -1,0 +1,15 @@
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net8.0\1-enqueue.exe
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net8.0\1-enqueue.deps.json
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net8.0\1-enqueue.runtimeconfig.json
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net8.0\1-enqueue.dll
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net8.0\1-enqueue.pdb
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net8.0\1-enqueue.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net8.0\1-enqueue.AssemblyInfoInputs.cache
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net8.0\1-enqueue.AssemblyInfo.cs
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net8.0\1-enqueue.csproj.CoreCompileInputs.cache
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net8.0\1-enqueue.sourcelink.json
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net8.0\1-enqueue.dll
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net8.0\refint\1-enqueue.dll
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net8.0\1-enqueue.pdb
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net8.0\1-enqueue.genruntimeconfig.cache
+c:\Users\ADMIN\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net8.0\ref\1-enqueue.dll
